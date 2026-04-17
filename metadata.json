@@ -1,0 +1,6 @@
+{
+  "name": "HomeChef",
+  "description": "Smart AI recipe assistant that helps you cook with what you have.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
